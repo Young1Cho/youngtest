@@ -3,12 +3,12 @@
 						<div class="staff">
 							<div class="img" style="background-image: url(images/PHOTO.jpg);"></div>
 							<div class="text pt-4">
-								<h3>Jonathan Park</h3>
+								<h3>Young Won Cho</h3>
 								<span class="position mb-2">The Pennsylvania State University</span>
-								<span class="position mb-2">jjp409@psu.edu</span>
+								<span class="position mb-2">yfc5309@psu.edu</span>
 								<div class="faded">
 									<ul class="ftco-social d-flex">
-		                <li class="ftco-animate"><a href="https://twitter.com/Jay_Park93"><span class="icon-twitter"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
 		                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
 		                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
 		                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
